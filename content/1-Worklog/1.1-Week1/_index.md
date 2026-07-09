@@ -1,0 +1,53 @@
+---
+title: "Worklog Week 1"
+date: 2026-04-17
+weight: 1
+chapter: false
+pre: " <b> 1.1. </b> "
+---
+
+### Week 1 Objectives:
+
+- Join the AWS First Cloud AI Journey Kickoff session: Learn about the project regulations, working culture, and network with members of the technical team.
+- Successfully initialize a personal AWS account: Set up payment methods and configure budget management (AWS Free Tier account) to support learning and research, mastering the usage of AWS Console & CLI.
+- Complete assigned tasks on AWS Console: Receive a total of $200 USD in AWS Credits, optimizing costs when practicing with paid services.
+- Proactively explore the AWS service overview: Understand the service catalog (Compute, Storage, Networking, Database, etc.), operational architecture, and AWS pricing models to ensure future system deployments are both efficient and cost-effective.
+
+### Tasks to Deploy This Week:
+
+| Day | Task                                                                                                                                                                                                                                    | Start Date | Completion Date | Documentation Source                      |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------- |
+| Mon | - Attend the AWS First Cloud AI Journey Kickoff session <br> - Network and get acquainted with FCJ members <br> - Read and note down regulations, rules, and workplace culture at the internship unit                                   | 17/04/2026 | 17/04/2026      |                                           |
+| Tue | - Learn about AWS overview and its pricing models <br> - Conduct preliminary research on core service groups: <br>&emsp; + Compute, Storage, Networking, Database, ...                                                                  | 18/04/2026 | 18/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| Wed | - Initialize a personal AWS Free Tier account <br> - Set up payment methods and configure AWS Budgets to prevent unexpected charges <br> - Complete AWS Cloud Explorer Tasks on AWS Console to claim AWS Activate Credits               | 20/04/2026 | 20/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| Thu | - Explore the AWS Management Console interface <br> - Install and configure AWS CLI on personal computer (Access Key, Secret Key, Default Region) <br> - **Practice:** Utilize basic AWS CLI commands to check resources                | 21/04/2026 | 21/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| Fri | - Learn basic Amazon EC2 services: <br>&emsp; + Instance types, AMI (Amazon Machine Image), EBS (Elastic Block Store), Elastic IP <br> - Research security mechanisms and SSH connection methods from workstation to EC2                | 22/04/2026 | 22/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| Sat | - **Hands-on Technical Lab Deployment:** <br>&emsp; + Initialize a complete EC2 instance <br>&emsp; + Create and attach an additional EBS volume <br>&emsp; + Perform SSH connection and manage resources in parallel via Console & CLI | 23/04/2026 | 23/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
+
+### Week 1 Achievements:
+
+| Day | Task                                           | Achievement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| --- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mon | Kickoff & Workplace Integration                | Mastered project regulations, internship policies, and workplace culture; successfully networked with technical team members.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Tue | Cloud Fundamentals & AWS Global Infrastructure | Studied Module 1 (AWS Fundamentals & Gen AI - Part 1): <br> - Cloud Computing: Defined renting IT resources over the Internet with Pay-as-you-go pricing instead of buying on-premises hardware. Grasped benefits: upfront cost optimization, faster deployment, and global scaling. <br> - Global Infrastructure: Mastered foundational components: <br>&emsp; + _Data Centers:_ Optimized physical facilities. <br>&emsp; + _Availability Zones (AZs):_ Isolated clusters of data centers for fault isolation (best practice: run apps across $\ge$ 2 AZs). <br>&emsp; + _Regions:_ Large geographic areas containing $\ge$ 3 AZs. <br>&emsp; + _Edge Locations & Local Zones:_ Edge servers located close to users (available in VN) acting as cache endpoints (CDN - CloudFront) for ultra-fast data delivery. |
+| Wed | Account Initialization & Cloud Explorer Tasks  | Successfully registered a personal AWS account and configured AWS Budgets for cost control. Completed the AWS Cloud Explorer Tasks to get familiar with the cloud infrastructure and successfully activated the AWS Activate Credits.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Thu | Interaction Methods & CLI Configuration        | Studied Module 1 (Part 2: Interacting with AWS): <br> Learned 3 primary methods to control AWS services: <br> - AWS Management Console: Web interface for beginners. Understand the strict boundary between _Root User_ (secured with MFA, kept safe, not for daily use) and _IAM User_ (sub-account with specific permissions using Account ID for daily operations - completed in Task 1). <br> - AWS CLI: Command-line interface for fast actions and automation scripts. Installed completely on local machine, configured Access Key/Secret Key securely (never push to GitHub). <br> - \*\*AWS SDK: Programmatic kits (Python, Java, etc.) for code-level API integrations.                                                                                                                                  |
+| Fri | EC2 Architecture Exploration                   | Gained solid theoretical knowledge of Instance types, AMI, EBS, IP routing mechanisms, and security protocols via SSH Key Pairs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Sat | Hands-on Lab System Deployment                 | Successfully launched an EC2 instance, attached an EBS volume, and established a stable SSH connection from local machine; combined resource management in parallel via both Console & CLI.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+---
+
+### Practical Evidence Images:
+
+**Monday: Kickoff & Workplace Integration**
+
+**Tuesday: Cloud Fundamentals & AWS Global Infrastructure**
+
+**Wednesday: Account Initialization & Cloud Explorer Tasks**
+![AWS Billing](image.png?width=400px)
+
+**Thursday: Interaction Methods & CLI Configuration**
+
+**Friday: EC2 Architecture Exploration**
+
+**Saturday: Hands-on Lab System Deployment**
