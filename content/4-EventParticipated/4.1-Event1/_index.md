@@ -82,9 +82,3 @@ Participating in the event brought me invaluable experiences, helping to harmoni
 - **Multi-dimensional learning:** Gained access to knowledge from various perspectives, from self-managing the brain (Mr. Long) and career mindset (Mr. Khang) to practical techniques like Prompt writing (Mr. Thinh) and using AI Agents (Ms. Thao).
 - **Practical experience:** The AWS platform extension demo presented in English by speaker Nguyen Thinh was very impressive, demonstrating the powerful practical application of Cloud and AI.
 - **Cognitive shift:** Helped me relieve the pressure and fear of being replaced by AI, understanding instead how to use AI as a lever to amplify capabilities, thereby becoming more confident in my upcoming career orientation.
-
-#### Some pictures from the event
-
-- Add your pictures here
-
-> In conclusion, the event not only provided the most advanced technical knowledge about AI but also equipped me with the right mindset and scientific methodologies to confidently enter the IT labor market.

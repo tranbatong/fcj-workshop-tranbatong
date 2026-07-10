@@ -14,9 +14,7 @@ Our system opens with a modern Landing Page and a secure user authentication flo
 #### Email verification Interface
 ![Email verification Interface](/images/5-Workshop/5.8-Frontend-React/email-verification.png)
 #### Login Interface
-![Landing Page Interface](/images/5-Workshop/5.8-Frontend-React/login.png)
-#### DataUpload Interface
-![DataUpload Interface](/images/5-Workshop/5.8-Frontend-React/data-upload.png)
+![Login Interface](/images/5-Workshop/5.8-Frontend-React/Login.png)
 
 
 #### 1. Landing Page (src/components/LandingPage.jsx)

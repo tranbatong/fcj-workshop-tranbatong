@@ -10,7 +10,7 @@ Hệ thống của chúng ta mở đầu bằng một trang giới thiệu (Land
 #### Landing Page
 ![Landing Page Interface](/images/5-Workshop/5.8-Frontend-React/landing-page.png)
 #### Đăng nhập
-![Login Interface](/images/5-Workshop/5.8-Frontend-React/login.png)
+![Login Interface](/images/5-Workshop/5.8-Frontend-React/Login.png)
 #### Đăng ký 
 ![Register Interface](/images/5-Workshop/5.8-Frontend-React/register.png)
 #### Xác minh email 
