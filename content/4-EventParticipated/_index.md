@@ -1,6 +1,6 @@
 ---
 title: "Attended Events"
-date: 2026-08-07
+date: 2026-07-07
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
