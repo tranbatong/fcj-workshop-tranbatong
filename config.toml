@@ -1,6 +1,6 @@
 baseURL = "https://tranbatong.github.io/fcj-workshop-tranbatong/"
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
