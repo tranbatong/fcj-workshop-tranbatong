@@ -1,5 +1,12 @@
 {{- $url := .Destination -}}
 {{- if strings.HasPrefix $url "/" -}}
   {{- $url = strings.TrimPrefix "/" $url | relURL -}}
+{{- else if not (or (strings.HasPrefix $url "http://") (strings.HasPrefix $url "https://") (strings.HasPrefix $url "data:") (strings.HasPrefix $url "#")) -}}
+  {{- with .Page.Site.LanguagePrefix -}}
+    {{- $defaultPermalink := replace $.Page.RelPermalink (printf "%s/" .) "/" -}}
+    {{- if ne $defaultPermalink $.Page.RelPermalink -}}
+      {{- $url = printf "%s%s" $defaultPermalink $url -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 <img src="{{ $url | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />

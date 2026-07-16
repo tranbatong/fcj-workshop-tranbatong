@@ -18,7 +18,7 @@ Below is the processing flow and communication model between services in the sup
 
 > _Figure 1. Overall architecture: Amazon Cognito authenticates users, AWS AppSync communicates via TS/JS Resolvers down to Amazon Aurora, secured by AWS Secrets Manager._
 
-## ![Architecture diagram of the solution](image.png)
+![Architecture diagram of the solution](image.png)
 
 ## Core Technical Highlights
 

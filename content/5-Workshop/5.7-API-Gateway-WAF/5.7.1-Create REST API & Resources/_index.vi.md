@@ -13,7 +13,7 @@ pre : " <b> 5.7.1. </b> "
 4. **API name**: Nhập `idp-backend-api`.
 5. **Endpoint Type**: Chọn **Regional**.
 
-![Create API Gateway](/images/5-Workshop/5.6-API-Gateway/create-api.png)
+![Create API Gateway](/images/5-Workshop/5.7-API-Gateway-WAF/create-api.png)
 
 6. Bấm **Create API**.
 

@@ -18,7 +18,7 @@ Dưới đây là mô hình luồng xử lý và giao tiếp giữa các dịch 
 
 > _Hình 1. Kiến trúc tổng thể: Amazon Cognito xác thực người dùng, AWS AppSync giao tiếp qua TS/JS Resolvers xuống Amazon Aurora, được bảo mật bởi AWS Secrets Manager._
 
-## ![Architecture diagram of the solution](image.png)
+![Architecture diagram of the solution](image.png)
 
 ## Các điểm nhấn kỹ thuật cốt lõi
 
