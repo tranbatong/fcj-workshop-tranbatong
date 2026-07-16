@@ -63,7 +63,7 @@ Người dùng đăng nhập thông qua Amazon Cognito. Sau khi xác thực thà
 
 Các API Dashboard sẽ đọc dữ liệu từ DynamoDB để hiển thị danh sách hóa đơn, thống kê doanh thu và các biểu đồ trực quan.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ### Dịch vụ AWS sử dụng
 
