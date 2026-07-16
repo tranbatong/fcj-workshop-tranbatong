@@ -19,7 +19,7 @@ Throughout this lab, you will deploy and configure various AWS services across d
 * **Asynchronous Processing:** Amazon SQS and AWS Lambda to decouple the ingestion from the AI extraction workload.
 * **AI/ML:** Amazon Textract to automatically query and extract specific fields from uploaded images and PDFs.
 * **Security & Authentication:** Amazon Cognito for user management, API Gateway for RESTful routing, and AWS WAF for rate-limiting and threat protection.
-* **Frontend:** A React Single-Page Application (SPA) to interact with the backend APIs, upload files via presigned URLs, and visualize data via dashboards.
+* **Frontend & CI/CD:** A React Single-Page Application (SPA) hosted on AWS Amplify with an automated CI/CD pipeline, utilizing a custom domain managed by Amazon Route 53 to interact securely with backend APIs via HTTPS.
 
 #### Content
 
@@ -31,5 +31,6 @@ Throughout this lab, you will deploy and configure various AWS services across d
 6. [Authentication with Cognito](5.6-Identity-Cognito/)
 7. [API Gateway & WAF Security](5.7-API-Gateway-WAF/)
 8. [React Frontend Implementation](5.8-Frontend-React/)
-9. [Testing & Validation](5.9-Testing-Validation/)
-10. [Clean up](5.10-Cleanup/)
+9. [Custom Domain with Amazon Route 53](5.9-Route53-Domain/)
+10. [CI/CD & Hosting with AWS Amplify](5.10-Amplify-Hosting/)
+11. [Testing & Validation](5.11-Testing-Validation/)
