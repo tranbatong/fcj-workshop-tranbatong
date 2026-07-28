@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Bài thu hoạch Sự kiện
+# Bài thu hoạch Sự kiện(Tham dự online)
 
 Sự kiện "FCAJ Community Day - June 2026" là một diễn đàn công nghệ chuyên sâu, tập trung vào việc ứng dụng Trí tuệ Nhân tạo (AI) vào các hoạt động vận hành doanh nghiệp (Operations), từ hạ tầng Cloud, hỗ trợ khách hàng bằng giọng nói (Voice AI), quy trình DevOps, cho đến quản trị nhân sự (HR) và bảo mật hệ thống. Sự kiện mang tính thực tiễn cao với nhiều bài trình bày từ các chuyên gia đang trực tiếp làm việc tại các doanh nghiệp và startup công nghệ lớn.
 

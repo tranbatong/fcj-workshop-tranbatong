@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Event Report
+# Event Report(participate online)
 
 The "FCAJ Community Day - June 2026" event was an in-depth technology forum focusing on the application of Artificial Intelligence (AI) in enterprise operations, from Cloud infrastructure, voice customer support (Voice AI), DevOps processes, to Human Resources (HR) management and system security. The event was highly practical with many presentations from experts directly working at large technology enterprises and startups.
 

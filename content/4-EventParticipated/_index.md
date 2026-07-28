@@ -36,4 +36,4 @@ During my internship, I participated in 3 events. Each event was a memorable exp
 
 &emsp;**Location:** 26th and 36th Floor
 
-&emsp;**Role in the event:** Attendee
+&emsp;**Role in the event:** Attendee(participate online)

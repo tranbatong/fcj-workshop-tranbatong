@@ -36,4 +36,4 @@ Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là
 
 &emsp;**Địa điểm:** Tầng 26 và 36
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự
+&emsp;**Vai trò trong sự kiện:** Người tham dự(tham dự online)

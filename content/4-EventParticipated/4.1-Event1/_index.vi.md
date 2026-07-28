@@ -82,3 +82,8 @@ Tham gia sự kiện mang lại cho tôi những trải nghiệm vô cùng quý 
 - **Học hỏi đa chiều:** Được tiếp cận kiến thức từ nhiều góc nhìn khác nhau, từ cách quản lý bộ não của bản thân (Anh Long), tư duy lập nghiệp (Anh Khang) cho đến các kỹ thuật thực chiến như viết Prompt (Anh Thịnh) và dùng AI Agent (Chị Thảo).
 - **Trải nghiệm thực tế:** Buổi demo tiện ích mở rộng trên nền tảng AWS bằng tiếng Anh của diễn giả Nguyễn Thịnh rất ấn tượng, cho thấy khả năng ứng dụng mạnh mẽ của Cloud và AI vào thực tế.
 - **Thay đổi nhận thức:** Giúp tôi giải tỏa được áp lực và nỗi lo sợ bị AI thay thế, thay vào đó hiểu cách dùng AI như một đòn bẩy khuếch đại năng lực, từ đó tự tin hơn trong định hướng nghề nghiệp sắp tới.
+
+#### Hình ảnh minh chứng
+
+![Hình ảnh minh chứng sự kiện](image.png)
+![Hình ảnh minh chứng sự kiện](image-1.png)

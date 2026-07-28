@@ -107,3 +107,7 @@ Tham gia sự kiện giúp tôi mở rộng góc nhìn từ việc chỉ viết 
 - Việc tối ưu hóa chi phí hạ tầng cần được tính toán ngay từ khâu thiết kế mạng lưới Edge, thay vì chỉ tối ưu ở mức code ứng dụng.
 
 > Sự kiện đã mang lại cho tôi những kiến thức chuyên sâu về cả AI và Cloud, đồng thời cung cấp các hướng dẫn thực tiễn để nâng cấp kiến trúc hệ thống, cải thiện khả năng mở rộng và độ an toàn cho các ứng dụng thực tế.
+
+#### Hình ảnh minh chứng
+
+![Hình ảnh minh chứng sự kiện](image.png)

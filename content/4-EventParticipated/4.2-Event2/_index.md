@@ -107,3 +107,7 @@ Attending the event helped broaden my perspective from merely writing applicatio
 - Infrastructure cost optimization needs to be calculated right from the Edge network design phase, rather than just at the application code level.
 
 > Overall, the event provided me with in-depth knowledge of both AI and Cloud, while also offering practical guidelines for upgrading system architecture, improving scalability, and ensuring safety for real-world applications.
+
+#### Image proof
+
+![Image proof event](image.png)
